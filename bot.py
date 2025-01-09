@@ -1,5 +1,6 @@
 import telebot # библиотека telebot
 from config import token # импорт токена
+import random
 
 bot = telebot.TeleBot(token) 
 
